@@ -1,0 +1,7 @@
+C:\Users\bianca.ascanfella\source\repos\TarefaCombinacoes\TarefaCombinacoes\bin\Debug\TarefaCombinacoes.exe.config
+C:\Users\bianca.ascanfella\source\repos\TarefaCombinacoes\TarefaCombinacoes\bin\Debug\TarefaCombinacoes.exe
+C:\Users\bianca.ascanfella\source\repos\TarefaCombinacoes\TarefaCombinacoes\bin\Debug\TarefaCombinacoes.pdb
+C:\Users\bianca.ascanfella\source\repos\TarefaCombinacoes\TarefaCombinacoes\obj\Debug\TarefaCombinacoes.csproj.AssemblyReference.cache
+C:\Users\bianca.ascanfella\source\repos\TarefaCombinacoes\TarefaCombinacoes\obj\Debug\TarefaCombinacoes.csproj.CoreCompileInputs.cache
+C:\Users\bianca.ascanfella\source\repos\TarefaCombinacoes\TarefaCombinacoes\obj\Debug\TarefaCombinacoes.exe
+C:\Users\bianca.ascanfella\source\repos\TarefaCombinacoes\TarefaCombinacoes\obj\Debug\TarefaCombinacoes.pdb
